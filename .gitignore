@@ -1,4 +1,9 @@
+#executable
 bin/
 *.exe
 
+#mac
 .DS_Store
+
+#node
+node_modules
