@@ -1,14 +1,14 @@
 {
-  "name": "game-2d",
+  "name": "3game-2d",
   "version": "1.0.0",
-  "description": "2d story game",
+  "description": "2d game with electron and pixi.js",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "author": "Woojin Choi",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "electron": "^27.0.4"
   }
 }
